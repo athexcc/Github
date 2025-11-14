@@ -1,4 +1,3 @@
----
 - 💼 Recent Positions:
     Administrator @ **analystic.de**
     Staff @ **anticheat.ac**
